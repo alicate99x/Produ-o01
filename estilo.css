@@ -1,0 +1,30 @@
+header {
+
+    color:whitesmoke;
+
+
+    background-color: blueviolet; height: 120px; display: flex;
+    justify-content: center;
+    align-items: center;     *{
+
+    
+
+    text-align: center; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    border-color: darkgrey;
+
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    width: 100vw;
+    }
+}
+
+body{
+    margin: 0;
+}
